@@ -1,0 +1,7 @@
+.intro-bg{
+    background-image: url('../images/top.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+}
