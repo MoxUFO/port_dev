@@ -1,0 +1,8 @@
+.project-bg{
+    background-image: url('../images/swim.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+    height: 2000px;
+
+}
